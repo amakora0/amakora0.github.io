@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: "Media"
+title: "Misc"
 permalink: /media/
 author_profile: true
 ---
 
 
-
-testing
 
 
 
