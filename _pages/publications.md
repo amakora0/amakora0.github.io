@@ -16,7 +16,7 @@ _International Conference on Approximation Algorithms for Combinatorial Optimiza
 [arXiv](https://arxiv.org/abs/2206.12245)
 
 
-{% if author.googlescholar %}
+<!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
@@ -24,4 +24,4 @@ _International Conference on Approximation Algorithms for Combinatorial Optimiza
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
