@@ -4,7 +4,8 @@ main:
     url: /publications/   
 
   - title: "CV"
-    url: /cv/
+    url: /cv/ 
+    #make this just a link to a pdf!!!
 
   - title: "Media"
     url: /media/

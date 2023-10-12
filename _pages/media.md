@@ -1,15 +1,13 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Media"
+permalink: /media/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 
 
-
+testing
 
 
 
