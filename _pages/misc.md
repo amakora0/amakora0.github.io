@@ -1,17 +1,17 @@
 ---
 layout: archive
-title: "Misc."
+title: "Miscellaneous"
 permalink: /misc/
 author_profile: true
 ---
 
-My cat made it onto the JHU CS [department webpage](https://www.cs.jhu.edu/news/computer-scientist-ama-koranteng-says-playing-strategic-video-games-developed-her-problem-solving-skills/)!
+* My cat (and I) made it onto the JHU CS [department webpage](https://www.cs.jhu.edu/news/computer-scientist-ama-koranteng-says-playing-strategic-video-games-developed-her-problem-solving-skills/)!
 
-I contributed to a [CSforALL blog post](https://csforall.medium.com/3-young-voices-and-their-pathways-to-careers-in-the-tech-industry-bad39616390f) touching on challenges low-income college students may face when pursing tech careers.
+* I contributed to a [CSforALL blog post](https://csforall.medium.com/3-young-voices-and-their-pathways-to-careers-in-the-tech-industry-bad39616390f) touching on challenges low-income college students may face when pursing tech careers.
 
-[Article](https://www.cs.jhu.edu/news/nsf-fellowship-awarded-to-two-cs-graduate-students/) from the JHU CS department on my NSF Graduate Research Fellowship.
+* [Article](https://www.cs.jhu.edu/news/nsf-fellowship-awarded-to-two-cs-graduate-students/) from the JHU CS department on my NSF Graduate Research Fellowship.
 
-I was featured (along with 11 other cool women in tech!) in a [Medium post](https://amysmartgirls.com/the-future-of-computer-science-and-tech-12-young-women-to-watch-part-2-334c2282025d) by Amy Poehler's Smart Girls.
+* I was featured (along with 11 other cool women in CS!) in a [Medium blog](https://amysmartgirls.com/the-future-of-computer-science-and-tech-12-young-women-to-watch-part-2-334c2282025d) by Amy Poehler's Smart Girls.
 
 
 
