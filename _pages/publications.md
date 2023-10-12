@@ -1,9 +1,7 @@
 ---
 layout: archive
-title: "Research" 
-<!-- "Publications" -->
-permalink: /research/
-<!-- /publications/ -->
+title: "Publications" 
+permalink: /publications/
 author_profile: true
 ---
 

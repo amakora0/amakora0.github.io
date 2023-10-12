@@ -14,7 +14,7 @@ description              : &description "Homepage for Ama Koranteng"
 url                      : https://amakora0.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "amakora0/amakora0.github.io"
-teaser                   : "amaaa.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "images/amaaa.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ama Koranteng"
-  avatar           : "amaaa.png"
+  avatar           : "images/amaaa.jpg"
   bio              : "Computer Science PhD Student at Johns Hopkins University"
   location         : "Baltimore, MD, USA"
   employer         : #"Johns Hopkins University"
