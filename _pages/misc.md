@@ -11,7 +11,7 @@ author_profile: true
 
 * [Article](https://www.cs.jhu.edu/news/nsf-fellowship-awarded-to-two-cs-graduate-students/) from the JHU CS department on my NSF Graduate Research Fellowship.
 
-* I was featured (along with 11 cool women in CS!) in a [Medium blog](https://amysmartgirls.com/the-future-of-computer-science-and-tech-12-young-women-to-watch-part-2-334c2282025d) by Amy Poehler's Smart Girls.
+* I was featured (along with 11 cool women in CS!) in a [blog](https://amysmartgirls.com/the-future-of-computer-science-and-tech-12-young-women-to-watch-part-2-334c2282025d) by Amy Poehler's Smart Girls.
 
 
 
