@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Ama Koranteng"
   avatar           : "amaaa2.jpg"
-  bio              : "Computer Science PhD Student at Johns Hopkins University"
+  bio              : "Computer Science PhD Candidate at Johns Hopkins University"
   location         : "Baltimore, MD, USA"
   employer         : #"Johns Hopkins University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=Q_y3E28AAAAJ&hl=en&authuser=1"
   email            : "amakora08@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
