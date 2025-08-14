@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I have a PhD in computer science from the [Department of Computer Science](https://www.cs.jhu.edu/) at [Johns Hopkins University](https://www.jhu.edu/), where I was advised by [Michael Dinitz](https://www.cs.jhu.edu/~mdinitz/). My research was in theoretical computer science, namely in graph and approximation algorithms. I was supported by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/). Before starting my PhD, I earned a BS in Mathematics from the Massachusetts Institute of Technology.
+Hello! I have a PhD in computer science from the [Department of Computer Science](https://www.cs.jhu.edu/) at [Johns Hopkins University](https://www.jhu.edu/), where I was advised by [Michael Dinitz](https://www.cs.jhu.edu/~mdinitz/). My research was in discrete mathematics and theoretical computer science, namely in graph algorithms, approximation algorithms, network design, and combinatorial optimization. I was supported in part by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/). Before my PhD, I earned a BS in Mathematics from the Massachusetts Institute of Technology (MIT).
 
 In November, I will be joining the Applied Math group at Boeing.
