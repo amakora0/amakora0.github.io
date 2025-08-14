@@ -83,7 +83,7 @@ author:
   name             : "Ama Koranteng"
   avatar           : "amaaa2.jpg"
   bio              : "Theoretical Computer Science PhD"
-  location         : "Baltimore, MD, USA"
+  location         : #"Baltimore, MD, USA"
   employer         : #"Johns Hopkins University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Q_y3E28AAAAJ&hl=en&authuser=1"
