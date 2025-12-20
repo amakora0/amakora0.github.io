@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+**Dissertation:** Approximation Algorithms for New Problems in Network Design
+[Link](https://jscholarship.library.jhu.edu/items/7d47c8bb-8289-4ea3-b6a9-6769b6eba146)
+
 **Approximation Algorithms for Optimal Hopsets**\
 with Michael Dinitz and Yasamin Nazari\
 _International Colloquium on Automata, Languages, and Programming (ICALP), 2025_\
