@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /publications/   
 
-  - title: "CV"
-    url: /files/ama_CV.pdf
+  #- title: "CV"
+  #  url: /files/ama_CV.pdf
     #url: /cv/ 
     #make this just a link to a pdf!!!
 
