@@ -6,7 +6,7 @@ main:
   - title: "CV"
    url: /files/ama_CV.pdf
     url: /cv/ 
-    #make this just a link to a pdf!!!
+    #make this just a link to a pdf!!! #
 
   - title: "Misc."
     url: /misc/
